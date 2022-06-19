@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "esnext",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "out",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "declaration": true
+  },
+  "include": ["src"]
+}

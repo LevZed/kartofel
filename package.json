@@ -1,0 +1,16 @@
+{
+  "name": "kartofel",
+  "version": "3.0.0-sus",
+  "description": "фреймворк для создания картофеля",
+  "main": "out/index.js",
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flxprhub/kartofel.git"
+  },
+  "homepage": "https://github.com/flxprhub/kartofel#readme",
+
+  "keywords": ["картофель", "картошка", "картофан", "фреймворк"],
+  "author": "flxxd",
+  "license": "ISC"
+}
